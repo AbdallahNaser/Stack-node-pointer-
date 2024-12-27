@@ -123,6 +123,5 @@ int main() {
 
 
 🧑‍💻 Example Output
-bash
-Copy code
+
 [hi  hero  Hello  Ali  Abdallah]
